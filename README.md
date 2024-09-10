@@ -1,16 +1,32 @@
-## Hi there 👋
+## Cybersecurity Expert, Bug Bounty Hunter, and Programmer
 
-<!--
-**Mzy0n/Mzy0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="lfillazme.gif">
+</p>
 
-Here are some ideas to get you started:
+**Certified Digital Forensic Investigator (DFE)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Skills:**
+- Python: >90%
+- js: >70%
+- java: >80%
+- C++: >70%
+- Go: >40%
+- Dart: >80%
+- C#: >60%
+
+**Activities:**
+- Regular participant in CTF tournaments
+- Actively researching security vulnerabilities
+- Identified vulnerabilities in major companies like Epic Games and Meta, as well as 12 government websites
+
+**Connect with Me:**
+- [Discord Server](https://discord.gg/tpbVvUgcE3)
+- Instagram: [@lfillaz](https://www.instagram.com/lfillaz)
+
+**Availability:**
+- Open for programming requests
+- Contact me via Discord (@l.az) or Instagram (@lfillaz)
+
+## 2022-2024
+![Snake animation](laz.svg)
