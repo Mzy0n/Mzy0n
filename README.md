@@ -1,7 +1,7 @@
 ## Cybersecurity Expert, Bug Bounty Hunter, and Programmer
 
 <p align="left">
-  <img src="lfillazme.gif">
+  <img src="mzy0n.gif">
 </p>
 
 **Certified Digital Forensic Investigator (DFE)**
@@ -21,8 +21,8 @@
 - Identified vulnerabilities in major companies like Epic Games and Meta, as well as 12 government websites
 
 **Connect with Me:**
-- [Discord Server](https://discord.gg/tpbVvUgcE3)
-- Instagram: [@lfillaz](https://www.instagram.com/lfillaz)
+- [Yt channel](https://www.youtube.com/@Theoldesthere)
+- Instagram: [@oldsqor](https://www.instagram.com/oldsqor)
 
 **Availability:**
 - Open for programming requests
